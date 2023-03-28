@@ -4,7 +4,7 @@
 
 ## Description
 
-This project is a full stack web application using the MERN Stack to allow users to search books using the Google search API. This application demonstrates skill sets used to refractor an original code using REST APIs into GraphQL with Apollo.
+This project is a full stack web application using the MERN Stack to allow users to search books using the Google search API. This application demonstrates skill sets used to refractor an![](https://github.com/nicolewallace09/book-search/blob/master/client/public/images/app-screen.png?raw%3Dtrue) original code using REST APIs into GraphQL with Apollo.
 
 
 ## Table of Content
