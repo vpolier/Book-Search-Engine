@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-mongoose.connect(`mongodb+srv://nicole_w:lokiandlily2020@cluster0.hfj3i.mongodb.net/googlebooks`, {
+mongoose.connect(`mongodb+srv:, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
   useCreateIndex: true,
