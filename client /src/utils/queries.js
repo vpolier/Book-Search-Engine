@@ -1,4 +1,4 @@
-import gql from 'graphql-tag';
+import gql from '@apollo/client';
 
 // queries for logged in users
 export const GET_ME = gql`
